@@ -12,7 +12,7 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        2024 © 10А Столинской государственной гимназии. <a href="https://blog-10a.netlify.app/admin">Вход для администраторов</a></p>
+        2024 © 11А Столинской государственной гимназии. <a href="https://blog-10a.netlify.app/admin">Вход для администраторов</a></p>
     </div>
   </footer>
 )
