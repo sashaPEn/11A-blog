@@ -1,8 +1,8 @@
 ---
 template: blog-post
-title: Экскурсия в музей истории Давид - Городка
-slug: /museum-david
-timeforread: 01:02
+title: Первый пост
+slug: /test
+timeforread: 1 миин
 date: 2023-11-01 15:30
 description: test
 featuredImage: /assets/photo_2023-11-01_15-51-20.jpg
